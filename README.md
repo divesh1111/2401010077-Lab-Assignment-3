@@ -31,4 +31,4 @@ void addStudent() throws StudentNotFoundException;
 
 ✔ Strong Input Validation
 
-Ensures name, email, and course cannot be empty
+Ensures name, email, and course cannot be empty.
